@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="20%" height="20%" src="https://i.imgur.com/U1vA9XT.png" />
+  <img width="20%" height="20%" src="https://d3dthqtvwic6y7.cloudfront.net/podcast-covers/000/095/723/medium/zekel-health." />
 </p>
 
 # AlzheimersIQ
 
-**Zekel Healthcare podcast** is available on [YouTube], [Spotify], [Bitchute] and [Rumble].
+**Zekel Healthcare podcast** is available on [Apple], [Spotify], [Bitchute] and [Rumble].
 
 ## List of podcast episodes:
 
@@ -39,8 +39,8 @@
 
 All material is protected by the [Creative Commons Attribution 4.0 International License]
 
-[youtube]: https://www.youtube.com/c/BITPoliTo/videos
-[spotify]: https://open.spotify.com/show/3xXqSrkyLloGhTozWMnuhH?si=ntmJ3CxoRha9tesux1LJ1g
+[apple]: https://podcasts.apple.com/us/podcast/alzheimersiq/id1171766695
+[spotify]: https://open.spotify.com/show/5UBxrfswlYgz5InEFMYBhL
 [bitchute]: https://www.bitchute.com/video/0RmhGdp9jhP6/
 [rumble]: https://rumble.com/vbgy4y-0-introduzione-al-podcast.html
 [creative commons attribution 4.0 international license]: https://creativecommons.org/licenses/by/4.0/
