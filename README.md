@@ -4,7 +4,7 @@
 
 # AlzheimersIQ
 
-**BIT PoliTO podcast** is available on [YouTube], [Spotify], [Bitchute] and [Rumble].
+**Zekel Healthcare podcast** is available on [YouTube], [Spotify], [Bitchute] and [Rumble].
 
 ## List of podcast episodes:
 
