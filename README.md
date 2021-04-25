@@ -2,7 +2,7 @@
   <img width="20%" height="20%" src="https://i.imgur.com/U1vA9XT.png" />
 </p>
 
-# BIT PoliTO Podcast
+# AlzheimersIQ
 
 **BIT PoliTO podcast** is available on [YouTube], [Spotify], [Bitchute] and [Rumble].
 
