@@ -8,9 +8,9 @@
 
 ## List of podcast episodes:
 
-0. [Introduction](https://youtu.be/sQsK0Ec8xmU) [*Italian* / *English subs*]
-1. [Bit Bang](https://youtu.be/Mn0F-TQUwLQ) [*Italian* / *English subs*]
-2. [Cypherpunk 1993](https://youtu.be/5lO6ggKN0Lg) [*Italian* / *English subs*]
+0. [Alzheimers and Gum Disease](https://podcasts.apple.com/us/podcast/alzheimers-and-gum-disease/id1171766695?i=1000517312399) [*English* / *Espanol subs*]
+1. [Covid 19 and Miracle](https://podcasts.apple.com/us/podcast/covid-19-and-miracle/id1171766695?i=1000491253719) [*Italian* / *English subs*]
+2. [Coronavirus Emergency Senior Alert](https://podcasts.apple.com/us/podcast/coronavirus-emergency-senior-alert/id1171766695?i=1000464279978) [*English*]
 3. [Mining doesn't exist](https://youtu.be/2aKFMP1sElw) [*Italian* / *English subs*]
 4. [Dissing centralized systems](https://youtu.be/sjjX82NvfHk) [*Italian* / *English subs*]
 5. [BTC The antifragile](https://youtu.be/Bta0bfYu_fs) [*Italian* / *English subs*]
