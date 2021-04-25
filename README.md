@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" height="20%" src="https://d3dthqtvwic6y7.cloudfront.net/podcast-covers/000/095/723/medium/zekel-health." />
+  <img width="20%" height="20%" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCOWFeePr00AzoutUYiX8kAVm3Jc5WIa9xspsx1obnVqZfoTsa" 
 </p>
 
 # AlzheimersIQ
