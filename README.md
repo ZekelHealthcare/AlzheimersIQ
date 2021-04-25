@@ -4,7 +4,7 @@
 
 # AlzheimersIQ
 
-**Zekel Healthcare podcast** is available on [Apple], [Spotify], [Bitchute] and [Rumble].
+**Zekel Healthcare podcast** is available on [Apple], [Spotify], [Google] and [Amazon].
 
 ## List of podcast episodes:
 
@@ -41,6 +41,6 @@ All material is protected by the [Creative Commons Attribution 4.0 International
 
 [apple]: https://podcasts.apple.com/us/podcast/alzheimersiq/id1171766695
 [spotify]: https://open.spotify.com/show/5UBxrfswlYgz5InEFMYBhL
-[bitchute]: https://www.bitchute.com/video/0RmhGdp9jhP6/
-[rumble]: https://rumble.com/vbgy4y-0-introduzione-al-podcast.html
+[google]: https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0FsemhlaW1lcnNJUQ?sa=X&ved=0CAMQ4aUDahcKEwjwp-Dik5nwAhUAAAAAHQAAAAAQAQ&hl=en
+[amazon]: https://www.amazon.com/AlzheimersIQ/dp/B08JJTX4JD
 [creative commons attribution 4.0 international license]: https://creativecommons.org/licenses/by/4.0/
