@@ -15,7 +15,7 @@
 4. [Blueberries Alzheimers](https://podcasts.apple.com/us/podcast/blueberries-alzheimers/id1171766695?i=1000460117543) [*English*]
 5. [Dr Benjamin Qualls](https://podcasts.apple.com/us/podcast/dr-benjamin-qualls/id1171766695?i=1000460117498) [*English*]
 6. [Researcher Facts the Oral Health](https://podcasts.apple.com/us/podcast/researcher-facts-the-oral-health-story-by-qualls-dental/id1171766695?i=1000460117538) [*English*]
-7. [Security & privacy special with Riccardo Masutti](https://youtu.be/a24KDt8VRBg) [*Italian* / *English subs*]
+7. [Balancing Your Calories](https://podcasts.apple.com/us/podcast/balancing-your-calories/id1171766695?i=1000460117506) [*English*]
 8. [Wallet: Electric boogaloo](https://youtu.be/qZDxosft0SI) [*Italian* / *English subs*]
 9. [Dogecoin: Memes to the rescue](https://youtu.be/PVK5fRPB7z4) [*Italian* / *English subs*]
 10. [Bitcoin the trillion dollar community](https://youtu.be/s7sKf7uUl7U) [*Italian* / *English subs*]
@@ -29,11 +29,11 @@
 
 ## List of vlog episodes:
 
-1. [Let's see the office](https://youtu.be/SMsmtPD1T1I) [*Italian* / *English subs*]
+1. [What Is Alzheimers Disease](https://www.youtube.com/watch?v=7_kO6c2NfmE) [*English*]
 
-## Live:
+## Deep Learning:
 
-1. [Easterive - Live pre-pasqua](https://youtu.be/CMzX45oLl4I)
+1. [Alzheimers Facts and Figures](https://www.youtube.com/watch?v=xjJRUNqr7sk)
 
 ---
 
